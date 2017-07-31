@@ -1,0 +1,29 @@
+{
+    "name": "madmis/bitstamp-api",
+    "description": "Bitstamp REST API php client",
+    "keywords": [
+        "bitstamp",
+        "rest",
+        "api"
+    ],
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": "^7.1",
+        "doctrine/annotations": "^1.4",
+        "symfony/options-resolver": "^3.3",
+        "madmis/exchange-api": "^0.1",
+        "doctrine/collections": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "madmis\\": "src",
+            "tests\\": "Test"
+        }
+    },
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^6.2",
+        "symfony/console": "^3.3"
+    }
+}
