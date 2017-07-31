@@ -53,8 +53,8 @@ Easiest way to do this is through composer.
 [testing-link]: https://travis-ci.org/madmis/bitstamp-api
 [testing-image]: https://travis-ci.org/madmis/bitstamp-api.svg?branch=master
 
-[sensiolabs-insight-link]: https://insight.sensiolabs.com/projects/31b857a5-4329-41da-b88c-e50f5b424452
-[sensiolabs-insight-image]: https://insight.sensiolabs.com/projects/31b857a5-4329-41da-b88c-e50f5b424452/mini.png
+[sensiolabs-insight-link]: https://insight.sensiolabs.com/projects/792d0566-af24-4422-ab59-dcf21006565a
+[sensiolabs-insight-image]: https://insight.sensiolabs.com/projects/792d0566-af24-4422-ab59-dcf21006565a/mini.png
 
 [package-link]: https://packagist.org/packages/madmis/bitstamp-api
 [downloads-image]: https://poser.pugx.org/madmis/bitstamp-api/downloads
